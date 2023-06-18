@@ -5,10 +5,9 @@
 <!--- - 🌱 I’m currently learning flutter--->
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullatif-alsnousi)](https://git.io/streak-stats)
-</div>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullatif-alsnousi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
 
 
 <div align="center">
