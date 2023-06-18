@@ -4,6 +4,8 @@
 - 📫 How to reach me [abdullatif.ly](https://abdullatif.ly/)
 <!--- - 🌱 I’m currently learning flutter--->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullatif-alsnousi)](https://git.io/streak-stats)
+
 <!---
 abdullatif-alsnousi/abdullatif-alsnousi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
