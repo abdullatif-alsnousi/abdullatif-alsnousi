@@ -3,7 +3,12 @@
 - 💞️ I’m looking to collaborate on charitable projects
 - 📫 How to reach me [abdullatif.ly](https://abdullatif.ly/)
 <!--- - 🌱 I’m currently learning flutter--->
+
+
 <div align="center">
+---
+
+### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdullatif-alsnousi&theme=dark&background=000000)](https://git.io/streak-stats)
 
