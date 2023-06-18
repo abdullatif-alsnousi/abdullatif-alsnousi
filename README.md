@@ -7,8 +7,9 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullatif-alsnousi)](https://git.io/streak-stats)
 </div>
+https://github-readme-streak-stats.herokuapp.com/?user=abdullatif-alsnousi
+
 <div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatif-alsnousi)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
