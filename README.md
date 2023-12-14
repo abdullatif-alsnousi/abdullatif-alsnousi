@@ -6,7 +6,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 <div align="center">
 
