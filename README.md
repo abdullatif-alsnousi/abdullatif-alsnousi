@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Abdullatif Alsnousi
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on charitable projects
-- 📫 How to reach me [abdullatif.ly](https://abdullatif.ly/)
-<!--- - 🌱 I’m currently learning flutter--->
-
----
+![Anurag's GitHub stats](https://github-readme-stats-flame-seven-11.vercel.app/api?username=almontasser&show_icons=true&theme=vision-friendly-dark&background=000000)
 
 ### 🔥 My Stats :
 
